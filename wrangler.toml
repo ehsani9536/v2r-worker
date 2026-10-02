@@ -5,5 +5,5 @@ compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "53262eb686504b7cb49d7ef149981425" }
+  { binding = "settings", id = "d0051f5c163749f5a91b068ac6a4b83b" }
 ]
